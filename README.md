@@ -8,11 +8,13 @@ You are free to use this source as long as u credit this guys:
 
 - ossimc82/Fabian Fischer
 - C453
-- BlackRayquaza- Trapped
+- BlackRayquaza
+- Trapped
 - Donran
 - creepylava
 - Krazyshank
-- GhostMaree- Barm
+- GhostMaree
+- Barm
 - Nilly
 - sebastianfra12 for some more behaviors
 - Kieron for making 1 behavior
